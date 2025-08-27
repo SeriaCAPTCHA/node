@@ -1,7 +1,7 @@
 {
   "name": "seriacaptcha-sdk",
   "version": "1.0.0",
-  "description": "SeriaCAPTCHA Node.js SDK (sync + async)",
+  "description": "SeriaCAPTCHA Node.js SDK",
   "main": "seriacaptcha.js",
   "dependencies": {
     "node-fetch": "^2.6.7",
